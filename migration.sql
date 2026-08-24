@@ -1,1 +1,6 @@
-SELECT * FROM Contacts;
+SELECT
+Id, 
+FirstName, 
+LastName, 
+Email
+FROM Contacts;
